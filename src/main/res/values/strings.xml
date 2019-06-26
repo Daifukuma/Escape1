@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Escape from Tsuda Uni.</string>
+    <string name="start">Tap Here!</string>
+    <string name="stop"></string>
+</resources>
